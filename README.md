@@ -6,8 +6,6 @@ I'm a passionate tech enthusiast, entrepreneur, and creative thinker dedicated t
 
 🌍 Technology & API Development – Crafting efficient integrations for modern AI systems.
 
-🎵 Music Production & Publishing – Authorized to publish songs officially via SoundOn Global, TikTok Technology Limited, and ByteDance. Also, managing contracts for new artists and productions.
-
 💡 Entrepreneurial Mindset – Combining business strategy with advanced digital solutions.
 
 📚 Lifelong Learner – Continuously exploring new tech, coding principles, and business innovations.
@@ -26,8 +24,7 @@ Business Strategy & Digital Innovation
 
 📬 Connect with Me
 
-💼 LinkedIn: Supporter of All Developers
-🎶 Music Platform: SoundOn Global
+💼 LinkedIn:Anuar Razii : 1st and 3rd
 📧 Email: takoy690@gmail.com
 
 Let's collaborate and build something amazing together! 🚀
