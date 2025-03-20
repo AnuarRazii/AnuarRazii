@@ -26,8 +26,7 @@ Business Strategy & Digital Innovation
 
 📬 Connect with Me
 
-💼 LinkedIn: Supporter of All Developers
-🎶 Music Platform: SoundOn Global
+💼 LinkedIn: Anuar Razii
 📧 Email: takoy690@gmail.com
 
 Let's collaborate and build something amazing together! 🚀
