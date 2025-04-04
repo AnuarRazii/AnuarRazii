@@ -27,7 +27,6 @@ Business Strategy & Digital Innovation
 📬 Connect with Me
 
 💼 LinkedIn: Anuar Razii
-📧 Email: takoy690@gmail.com
 
 Let's collaborate and build something amazing together! 🚀
 README.md
