@@ -5,7 +5,7 @@
   <title>Anuar Razii | Portfolio</title>
   <style>
     body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f5f5f5; }
-    header { background: #1a1a1a; color: white; text-align: center; padding: 2rem 1rem; }
+    header { background: #1a1a1a; color: blue; text-align: center; padding: 2rem 1rem; }
     section { max-width: 800px; margin: 2rem auto; padding: 1.5rem; background: white; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
     h1, h2 { margin: 0 0 1rem; }
     .links a, .download-btn { display: inline-block; margin: 0.5rem; text-decoration: none; color: white; background: #0073e6; padding: 0.5rem 1rem; border-radius: 8px; transition: background 0.2s ease; }
