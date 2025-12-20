@@ -1,49 +1,50 @@
-<!DOCTYPE html><html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Anuar Razii | Portfolio</title>
-  <style>
-    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f5f5f5; }
-    header { background: #1a1a1a; color: White; text-align: center; padding: 2rem 1rem; }
-    section { max-width: 800px; margin: 2rem auto; padding: 1.5rem; background: white; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
-    h1, h2 { margin: 0 0 1rem; }
-    .links a, .download-btn { display: inline-block; margin: 0.5rem; text-decoration: yellow; color: white; background: #0073e6; padding: 0.5rem 1rem; border-radius: 8px; transition: background 0.2s ease; }
-    .links a:hover, .download-btn:hover { background: #005bb5; }
-    footer { text-align: center; font-size: 0.9rem; padding: 1rem; color: #555; }
-  </style>
-</head>
-<body>
-  <header>
-    <h1>Anuar Razii</h1>
-    <p>AI Creator | Founder of Arbiey AI & Ardoop AI RZ1</p>
-  </header>  <section>
-    <h2>Profile</h2>
-    <p>An AI creator focused on building Shariah-compliant AI solutions, integrating human collaboration, and fostering self-development. Currently developing Arbiey AI and Ardoop AI RZ1 as ethical and secure AI solutions.</p>
-  </section>  <section>
-    <h2>Details</h2>
-    <p><strong>Name:</strong> Anuar Bin Mohd Khai Razi</p>
-    <p><strong>Phone/Whatsapp:</strong> +601129407864</p>
-    <p><strong>Personal Email:</strong> takoy690@gmail.com</p>
-  </section>  <section>
-    <h2>Links</h2>
-    <div class="links">
-      <a href="https://orcid.org/0009-0005-7085-054X" target="_blank">ORCID</a>
-      <a href="https://www.facebook.com/Anuar.Rzi" target="_blank">Facebook</a>
-      <a href="https://www.linkedin.com/in/anuar-razii-891127329" target="_blank">LinkedIn</a>
-      <a href="https://github.com/AnuarRazii" target="_blank">GitHub</a>
-    </div>
-  </section>  <section>
-    <h2>Projects</h2>
-    <ul>
-      <li><strong>Arbiey AI</strong> – A daily companion AI with friendly interaction, routine reminders, and daily zikr suggestions.</li>
-      <li><strong>Ardoop AI RZ1</strong> – An ethical AI system for data integration, global collaboration, and information security.</li>
-    </ul>
-  </section>  <section>
-    <h2>Download CV</h2>
-    <a href="cv/Anuar_Razii_CV.pdf" class="download-btn" download>Download My CV</a>
-  </section>  <footer>
-    © 2025 Anuar Razii. All Rights Reserved.
-  </footer>
-</body>
-</html>
+# Hi to all global legends 👋
+
+I'm **Anuar Razii**, an AI Creator & Founder of Arbiey AI & Ardoop AI RZ1.  
+I have deep admiration and gratitude for GitHub, a source of inspiration in the ever-evolving world of technology.
+
+> _Let’s keep competing ethically, dreaming boldly, and creating fearlessly. Innovation never sleeps — it only transforms._
+
+---
+
+## 🧑‍💻 Profile
+
+AI Creator focused on building Shariah-compliant AI solutions, integrating human collaboration, and fostering self-development.
+
+Currently developing:
+- **Arbiey AI** — A daily companion AI with friendly interaction, routine reminders, and daily zikir suggestions.
+- **Ardoop AI RZ1** — An ethical AI system for data integration, global collaboration, and information security.
+
+---
+
+## ✉️ Contact
+
+- **Name:** Anuar Bin Mohd Khai Razi  
+- **Email:** ardoopairz[at]gmail[dot]com  
+- **LinkedIn:** [Anuar Razii](https://www.linkedin.com/in/anuar-razii-891127329)
+- **GitHub:** [AnuarRazii](https://github.com/AnuarRazii)
+- **ORCID:** [0009-0005-7085-054X](https://orcid.org/0009-0005-7085-054X)
+- **Facebook:** [Anuar.Rzi](https://www.facebook.com/Anuar.Rzi)
+
+---
+
+## 🔗 Selected Projects
+
+- **Arbiey AI** — Daily companion & productivity assistant, with ethical AI interaction.
+- **Ardoop AI RZ1** — Global-ready, secure collaboration platform with a focus on Shariah compliance.
+
+_Check out more on my GitHub [repositories](https://github.com/AnuarRazii?tab=repositories)!_
+
+---
+
+## 📄 Download My CV
+
+[Download CV (PDF)](cv/Anuar_Razii_CV.pdf) <!-- Pastikan fail ini tersedia dalam repo -->
+
+---
+
+<div align="center">
+
+© 2025 Anuar Razii. All Rights Reserved.
+
+</div>
