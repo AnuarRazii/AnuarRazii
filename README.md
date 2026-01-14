@@ -21,4 +21,4 @@ AI creator focussed on Shariah-compliant solutions, integrating human collaborat
 
 ---
 
-© 2025 Anuar Razii. All Rights Reserved.
+© 2025-2026 Anuar Razii. All Rights Reserved.
