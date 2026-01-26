@@ -11,12 +11,12 @@ AI creator focussed on Shariah-compliant solutions, integrating human collaborat
 
 ## 📞 Contact
 
-[LinkedIn](https://www.linkedin.com/in/anuar-razii-891127329) | [GitHub](https://github.com/AnuarRazii) | [ORCID](https://orcid.org/0009-0005-7085-054X) | [Facebook](https://www.facebook.com/Anuar.Rzi)
+[LinkedIn](https://www.linkedin.com/in/anuarrazii202420252026) | [GitHub](https://github.com/AnuarRazii) | [ORCID](https://orcid.org/0009-0005-7085-054X) | [Facebook](https://www.facebook.com/Anuar.Rzi)
 
 ---
 
 ## 🚀 Projects
-- **Arbiey AI** — Daily companion AI with reminders & zikr suggestions.
+- **Arbiey AI** — Daily companion AI with reminders & suggestions.
 - **Ardoop AI RZ1** — Shariah-compliant, ethical AI for collaboration & security.
 
 ---
