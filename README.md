@@ -1,24 +1,10 @@
-# Anuar Razii
+## Architecture Overview
 
-**AI Creator | Founder of Arbiey AI & Ardoop AI RZ1**
+```mermaid
+flowchart TD
+    A[Client] --> B[Server]
+    B --> C[Database]
+    A --> D[API]
+    D --> B
+```
 
----
-
-## 🧑‍💻 Profile
-AI creator focussed on Shariah-compliant solutions, integrating human collaboration, and self-development.
-
----
-
-## 📞 Contact
-
-[LinkedIn](https://www.linkedin.com/in/anuarrazii202420252026) | [GitHub](https://github.com/AnuarRazii) | [ORCID](https://orcid.org/0009-0005-7085-054X) | [Facebook](https://www.facebook.com/Anuar.Rzi)
-
----
-
-## 🚀 Projects
-- **Arbiey AI** — Daily companion AI with reminders & suggestions.
-- **Ardoop AI RZ1** — Shariah-compliant, ethical AI for collaboration & security.
-
----
-
-© 2024-2026 Anuar Razii. All Rights Reserved.
