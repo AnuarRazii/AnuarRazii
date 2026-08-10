@@ -1,3 +1,5 @@
+
+
 # Architecture Overview
 
 ```mermaid
@@ -29,6 +31,11 @@ graph TD
 > **Founder**  
 > _AI & EcoSystems Builder | Ethical & Responsible AI | Human–AI Integration | Digital Governance_  
 > _(Independent Projects)_
+
+## Requirements & Setup
+- Install dependencies: `pip install flask openai`
+- Replace `your_openai_api_key` in the script with your actual OpenAI key.
+- Run the application: `python app.py`
 
 ---
 
